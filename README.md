@@ -1,6 +1,6 @@
 # sharemenu
 
-sd asdkjfa sadkjfh as slkjdf asdads sadljk 
+adding the app to share menu
 
 ## Installation
 
